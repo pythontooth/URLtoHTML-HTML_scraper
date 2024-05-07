@@ -16,6 +16,9 @@ Before use make sure to:
  - **pip install time**
  - **pip install re**
  - **pip install urllib.parse**
+ - **pip install tkinter**
+ - **pip install logging**
+ - **pip install BeautifulSoup4**
 
 
 #### If you find any bug/thing to be fixed please let me know :)
