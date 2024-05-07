@@ -4,7 +4,7 @@
     
     Author: @pythontooth
     Lastest update: 06/05/2024
-    v.1.0.1
+    v.1.1.0
 
 Before use make sure to:
 - Install required python libraries
