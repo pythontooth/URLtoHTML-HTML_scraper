@@ -22,3 +22,6 @@ Before use make sure to:
 
 
 #### If you find any bug/thing to be fixed please let me know :)
+
+
+Tags: URLtoHTML, HTML5, HTML, Scraper, Save Website, Page Downloader.
